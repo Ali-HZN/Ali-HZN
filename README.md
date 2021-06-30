@@ -1,4 +1,4 @@
-## Hey 👋, I'm Alireza Nik!
+## Hey 👋, I'm Alireza Nik. Welcome to my profile!
 
 [![Outlook](icons/outlook.png)](mailto:a.hosseinzadehnik@stud.uis.no)
 [![GitHub](icons/github.png)](https://github.com/Ali-HZN)
@@ -20,3 +20,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
