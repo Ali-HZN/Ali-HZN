@@ -1,7 +1,7 @@
 ## Hey 👋, I'm Alireza Nik!
 
-[![Gmail](icons/gmail.png)](mailto:alirezahossseinzadeh7272@gmail.com)
-[![Outlook](icons/Outlook.png)](mailto:a.hosseinzadehnik@stud.uis.no)
+[![Gmail](icons/Gmail.png)](mailto:alirezahossseinzadeh7272@gmail.com)
+[![Outlook](icons/outlook.png)](mailto:a.hosseinzadehnik@stud.uis.no)
 [![GitHub](icons/github.png)](https://github.com/Ali-HZN)
 [![Facebook](icons/facebook.png)](https://www.facebook.com/alireza.hoseinzade.1/)
 [![Twitter](icons/twitter.png)](https://twitter.com/alireza_hzn)
