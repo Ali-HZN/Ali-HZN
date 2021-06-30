@@ -1,7 +1,14 @@
-### Hi there 👋
+## Hey 👋, I'm Alireza Nik!
 
+[![Gmail](icons/Gmail.png)](mailto:alirezahossseinzadeh7272@gmail.com)
+[![Outlook](icons/outlook.png)](mailto:a.hosseinzadehnik@stud.uis.no)
+[![GitHub](icons/github.png)](https://github.com/Ali-HZN)
+[![Facebook](icons/facebook.png)](https://www.facebook.com/alireza.hoseinzade.1/)
+[![Twitter](icons/twitter.png)](https://twitter.com/alireza_hzn)
+[![LinkedIn](icons/linkedin.png)](https://www.linkedin.com/in/alireza-hossein-zadeh-nik/)
+[![Instagram](icons/instagram.png)](https://www.instagram.com/aliii_hzn/)
 <!--
-**Ali-HZN/Ali-HZN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
