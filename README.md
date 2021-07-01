@@ -11,7 +11,10 @@
 🎓 I'm  M.Sc. student in Computational Engineering specialization of Data Science from University of Stavanger, Norway 🏛. 
 I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new tools and leverage them to solve real-life problems ✨. I'm currently into Machine Learning & AI and I love to have a chance to contribute to the development of innovative solutions and making a sustainable digital future.
 
-<img align="right" alt="GIF" src="https://github.com/Ali-HZN/Ali-HZN/blob/main/developer.gif" width="500" height="320" />
+<img align="right" alt="GIF" src="https://github.com/Ali-HZN/Ali-HZN/blob/main/developer.gif" width="450" height="320" />
+
+
+### Talking about Personal Stuffs:
 
 - ✍ You can find my projects here [portfolio]
 - 🔭 I’m currently working on my first book.
@@ -20,22 +23,3 @@ I'm a passionate learner who's always willing to learn and work across technolog
 - 💬 Ask me about ... Anything
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I speak 4 languages ( English, Spanish, Romanian, Russian)
-
-
-
-
-
-
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-
