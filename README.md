@@ -8,6 +8,8 @@
 [![Instagram](icons/instagram.png)](https://www.instagram.com/aliii_hzn/)
 <!--
 
+🎓 I'm  M.Sc. student in Computational Engineering Specialization of Data Science from University of Stavanger, Norway 🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new tools and leverage them to solve real-life problems ✨. I'm currently into Machine Learning & AI and I love to have a chance to contribute to the development of innovative solutions and making a sustainable digital future.
+
 
 Here are some ideas to get you started:
 
@@ -20,4 +22,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
