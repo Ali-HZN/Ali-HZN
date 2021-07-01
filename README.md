@@ -12,9 +12,9 @@
 I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new tools and leverage them to solve real-life problems ✨. I'm currently into Machine Learning & AI and I love to have a chance to contribute to the development of innovative solutions and making a sustainable digital future.
 
 
-<img align="right" alt="GIF" src="https://github.com/Ali-HZN/Ali-HZN/blob/main/developer.gif" width="375" height="250" />
+<img align="right" alt="GIF" src="https://github.com/Ali-HZN/Ali-HZN/blob/main/gifs/developer.gif" width="375" height="270" />
 
-### Talking about Personal Stuffs:
+### <img src="https://github.com/Ali-HZN/Ali-HZN/blob/main/gifs/hacker.gif" width="45px"> About Me:
 
 - ✍ You can find my projects here [portfolio]
 - 🔭 I’m currently working on my first book.
@@ -23,3 +23,6 @@ I'm a passionate learner who's always willing to learn and work across technolog
 - 💬 Ask me about ... Anything
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I speak 4 languages ( English, Spanish, Romanian, Russian)
+
+
+Thanks for visiting and I'd love to [connect](https://www.linkedin.com/in/alireza-hossein-zadeh-nik/)!
