@@ -1,7 +1,7 @@
 ## Hey 👋, I'm Alireza Nik. Welcome to my profile!
 
+### Connect with me: 
 [![Outlook](icons/email.png)](mailto:a.hosseinzadehnik@stud.uis.no)
-[![GitHub](icons/github.png)](https://github.com/Ali-HZN)
 [![Facebook](icons/facebook.png)](https://www.facebook.com/alireza.hoseinzade.1/)
 [![Twitter](icons/twitter.png)](https://twitter.com/alireza_hzn)
 [![LinkedIn](icons/linkedin.png)](https://www.linkedin.com/in/alireza-hossein-zadeh-nik/)
@@ -16,13 +16,14 @@ I'm a passionate learner who's always willing to learn and work across technolog
 
 ### <img src="https://github.com/Ali-HZN/Ali-HZN/blob/main/gifs/hacker.gif" width="45px"> About Me:
 
-- ✍ You can find my projects here [portfolio]
-- 🔭 I’m currently working on my first book.
-- 🌱 I’m currently learning React Native and Azure
-- 👯 I’m looking to collaborate on open source
-- 💬 Ask me about ... Anything
-- 😄 Pronouns: She/Her
-- ⚡ Fun fact: I speak 4 languages ( English, Spanish, Romanian, Russian)
+- 🙌 I'm currently looking for: **Data Science || Machine Learning Job Opportunities**
+- 🔭 I’m currently working as Intern on: **Data Analytics || Data Engineering** in DNV GL
+- 🌱 I’m currently learning: All about Data Science and AWS
+- 💻 I love Machine Learning and learn anythings about it
+- 👯 I’m looking to collaborate on more open source projects
+- 😄 Pronouns: He/Him
+- 📫 How to reach me: a.hosseinzadehnik@stud.uis.no
+- 📝 Checkout my [Resume](https://github.com/iampavangandhi/iampavangandhi/blob/master/resume.pdf).
 
 
-Thanks for visiting and I'd love to [connect](https://www.linkedin.com/in/alireza-hossein-zadeh-nik/)!
+### Thanks for visiting and I'd love to [connect](https://www.linkedin.com/in/alireza-hossein-zadeh-nik/)!
