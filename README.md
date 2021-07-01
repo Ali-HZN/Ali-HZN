@@ -25,7 +25,9 @@ I'm a passionate learner who's always willing to learn and work across technolog
 - 📫 How to reach me: a.hosseinzadehnik@stud.uis.no
 - 📝 Checkout my [Resume](https://github.com/Ali-HZN/Ali-HZN/blob/main/Resume.pdf).
 
-**Currently working with:**
+
+
+### Currently working with:
 
 <a href="https://code.visualstudio.com/" title="Visual Studio Code"><img src="icons/vscode.png" /></a>
 <a href="https://www.python.org/" title="Python"><img src="icons/python.png" /></a>
@@ -36,6 +38,11 @@ I'm a passionate learner who's always willing to learn and work across technolog
 <a href="https://en.wikipedia.org/wiki/JavaScript" title="JavaScript"><img src="icons/javascript.png" /></a>
 <a href="https://www.mysql.com/" title="MySQL"><img src="icons/mysql-logo.png" /></a>
 <a href="https://www.docker.com/" title="Docker"><img src="icons/docker.png" /></a>
+<a href="https://aws.amazon.com/" title="Docker"><img src="icons/aws.png" /></a>
+<a href="https://hadoop.apache.org/" title="Docker"><img src="icons/Hadoop.png" /></a>
+<a href="https://jupyter.org/" title="Docker"><img src="icons/jupyter.png" /></a>
+<a href="https://powerbi.microsoft.com/en-us/" title="Docker"><img src="icons/power.png" /></a>
+<a href="https://pytorch.org/" title="Docker"><img src="icons/torch.png" /></a>
 
 
 ### Thanks for the visit 😉!
