@@ -16,14 +16,14 @@ I'm a passionate learner who's always willing to learn and work across technolog
 
 ### <img src="https://github.com/Ali-HZN/Ali-HZN/blob/main/gifs/hacker.gif" width="45px"> About Me:
 
-- 🙌 I'm currently looking for: **Data Science || Machine Learning Job Opportunities**
-- 🔭 I’m currently working as Intern on: **Data Analytics || Data Engineering** in DNV GL
+- 🙌 I'm currently looking for: **Data Science || Machine Learning** Job Opportunities
+- 🔭 I’m currently working as an Intern on: **Data Analytics** in DNV GL
 - 🌱 I’m currently learning: All about Data Science and AWS
 - 💻 I love Machine Learning and learn anythings about it
 - 👯 I’m looking to collaborate on more open source projects
 - 😄 Pronouns: He/Him
 - 📫 How to reach me: a.hosseinzadehnik@stud.uis.no
-- 📝 Checkout my [Resume](https://github.com/iampavangandhi/iampavangandhi/blob/master/resume.pdf).
+- 📝 Checkout my [Resume](https://github.com/Ali-HZN/Ali-HZN/blob/main/Resume.pdf).
 
 
-### Thanks for visiting and I'd love to [connect](https://www.linkedin.com/in/alireza-hossein-zadeh-nik/)!
+### Thanks for the visit 😉!
