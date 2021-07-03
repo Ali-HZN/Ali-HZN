@@ -9,6 +9,7 @@
 
 
 🎓 I'm  M.Sc. student in Computational Engineering specialization of Data Science from University of Stavanger, Norway 🏛. 
+
 I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new tools and leverage them to solve real-life problems ✨. I'm currently into Machine Learning & AI and I love to have a chance to contribute to the development of innovative solutions and making a sustainable digital future.
 
 
@@ -24,6 +25,11 @@ I'm a passionate learner who's always willing to learn and work across technolog
 - 😄 Pronouns: He/Him
 - 📫 How to reach me: a.hosseinzadehnik@stud.uis.no
 - 📝 Checkout my [Resume](https://github.com/Ali-HZN/Ali-HZN/blob/main/Resume.pdf).
+
+
+
+
+
 
 
 
@@ -43,6 +49,11 @@ I'm a passionate learner who's always willing to learn and work across technolog
 <a href="https://jupyter.org/" title="Docker"><img src="icons/jup.png" /></a>
 <a href="https://powerbi.microsoft.com/en-us/" title="Docker"><img src="icons/power.png" /></a>
 <a href="https://pytorch.org/" title="Docker"><img src="icons/torch.png" /></a>
+
+
+
+
+
 
 
 ### Thanks for the visit 😉!
