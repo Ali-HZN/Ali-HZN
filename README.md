@@ -46,6 +46,7 @@ I'm a passionate learner who's always willing to learn and work across technolog
 <a href="https://pytorch.org/" title="Docker"><img src="icons/torch.png" /></a>
 
 
+![َAli's Github Stats](https://github-readme-stats.vercel.app/api?username=Ali-HZN&count_private=true&show_icons=true&include_all_commits=true)
 <br/>
 
 ### Thanks for the visit 😉!
