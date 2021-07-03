@@ -26,7 +26,6 @@ I'm a passionate learner who's always willing to learn and work across technolog
 - 📝 Checkout my [Resume](https://github.com/Ali-HZN/Ali-HZN/blob/main/Resume.pdf).
 
 <br/>
-<br/>
 
 ### Tools and Technologies:
 
@@ -44,9 +43,6 @@ I'm a passionate learner who's always willing to learn and work across technolog
 <a href="https://jupyter.org/" title="Docker"><img src="icons/jup.png" /></a>
 <a href="https://powerbi.microsoft.com/en-us/" title="Docker"><img src="icons/power.png" /></a>
 <a href="https://pytorch.org/" title="Docker"><img src="icons/torch.png" /></a>
-
-
-![َAli's Github Stats](https://github-readme-stats.vercel.app/api?username=Ali-HZN&count_private=true&show_icons=true&include_all_commits=true)
 <br/>
 
 ### Thanks for the visit 😉!
