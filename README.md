@@ -1,5 +1,5 @@
 ## Hey 👋, I'm Alireza Nik. Welcome to my profile!
-
+<br/>
 ### Connect with me: 
 [![Outlook](icons/email.png)](mailto:a.hosseinzadehnik@stud.uis.no)
 [![Facebook](icons/facebook.png)](https://www.facebook.com/alireza.hoseinzade.1/)
@@ -7,7 +7,6 @@
 [![LinkedIn](icons/linkedin.png)](https://www.linkedin.com/in/alireza-hossein-zadeh-nik/)
 [![Instagram](icons/instagram.png)](https://www.instagram.com/aliii_hzn/)
 
-<br/>
 <br/>
 🎓 I'm  M.Sc. student in Computational Engineering specialization of Data Science from University of Stavanger, Norway 🏛.<br/>
 I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new tools and leverage them to solve real-life problems ✨. I'm currently into Machine Learning & AI and I love to have a chance to contribute to the development of innovative solutions and making a sustainable digital future.
@@ -26,13 +25,8 @@ I'm a passionate learner who's always willing to learn and work across technolog
 - 📫 How to reach me: a.hosseinzadehnik@stud.uis.no
 - 📝 Checkout my [Resume](https://github.com/Ali-HZN/Ali-HZN/blob/main/Resume.pdf).
 
-
-
-
-
-
-
-
+<br/>
+<br/>
 ### Tools and Technologies:
 
 <a href="https://code.visualstudio.com/" title="Visual Studio Code"><img src="icons/vscode.png" /></a>
@@ -51,5 +45,5 @@ I'm a passionate learner who's always willing to learn and work across technolog
 <a href="https://pytorch.org/" title="Docker"><img src="icons/torch.png" /></a>
 
 
-
+<br/>
 ### Thanks for the visit 😉!
